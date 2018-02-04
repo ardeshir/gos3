@@ -1,41 +1,5 @@
-Buckets: 
-Bucket: ansible.univrs.io 
-Bucket: api.metalearn.org 
-Bucket: aws-codestar-us-east-1-057371796903 
-Bucket: aws-codestar-us-east-1-057371796903-cloud9-app 
-Bucket: aws-codestar-us-east-1-057371796903-cloud9-pipe 
-Bucket: blog-dev-serverlessdeploymentbucket-1fxxulozhjy2y 
-Bucket: cf-templates-bupfdzeh7kmy-us-east-1 
-Bucket: cfunivrsdev 
-Bucket: criticaltolerance.org 
-Bucket: deeplens-sagemaker-8054b9ef-f102-4402-a959-e103551d0f76 
-Bucket: deslifetouchus 
-Bucket: dev.metalearn.org 
-Bucket: dev.univrs.io 
-Bucket: dockerconfig20171103 
-Bucket: elasticbeanstalk-us-east-1-057371796903 
-Bucket: htcmape 
-Bucket: k8s.ardeshir.org 
-Bucket: k8s.lifetouch.us 
-Bucket: k8s.univrs.io 
-Bucket: khosrow 
-Bucket: kordata 
-Bucket: lakewook20140202 
-Bucket: poets20160911 
-Bucket: siaawstools 
-Bucket: siacapital 
-Bucket: siahttp 
-Bucket: siakeys 
-Bucket: siaweb 
-Bucket: simple-dev-serverlessdeploymentbucket-mbjhb4ufyqf1 
-Bucket: srclifetouchus 
-Bucket: thelastlaugh.org 
-Bucket: univrs-config-bucket 
-Bucket: univrs.io.billing 
-Bucket: univrs.io.ctrail 
-Bucket: univrscluster 
-Bucket: univrscode 
-Bucket: univrsdocs 
-Bucket: univrsio-templates 
-Bucket: www.criticaltolerance.org 
-Bucket: www.thelastlaugh.org 
+# Go S3 
+
+[ http://ardeshir.org/gosdk ] ardeshir.org/gosdk 
+
+
