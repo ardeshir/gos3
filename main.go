@@ -1,10 +1,12 @@
 package main
 
 import(
-	"fmt"
-	"log"
-	"os"
-	u "github.com/ardeshir/version"
+
+  "fmt"
+  "log"
+  "os"
+
+  u "github.com/ardeshir/version"
 
   "github.com/aws/aws-sdk-go/aws"
   "github.com/aws/aws-sdk-go/service/s3"
