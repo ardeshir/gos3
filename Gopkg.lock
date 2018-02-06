@@ -40,6 +40,35 @@
   version = "v1.12.70"
 
 [[projects]]
+  name = "github.com/aws/aws-sdk-go-v2"
+  packages = [
+    ".",
+    "aws",
+    "aws/awserr",
+    "aws/defaults",
+    "aws/ec2metadata",
+    "aws/ec2rolecreds",
+    "aws/endpointcreds",
+    "aws/endpoints",
+    "aws/external",
+    "aws/signer/v4",
+    "aws/stscreds",
+    "internal/awsutil",
+    "internal/sdk",
+    "private/protocol",
+    "private/protocol/json/jsonutil",
+    "private/protocol/jsonrpc",
+    "private/protocol/query",
+    "private/protocol/query/queryutil",
+    "private/protocol/rest",
+    "private/protocol/xml/xmlutil",
+    "service/dynamodb",
+    "service/sts"
+  ]
+  revision = "b8e7febd4b80c6517240e473410b54d4e63fed1d"
+  version = "v2.0.0-preview.2"
+
+[[projects]]
   name = "github.com/go-ini/ini"
   packages = ["."]
   revision = "32e4c1e6bc4e7d0d8451aa6b75200d19e37a536a"
@@ -53,6 +82,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "3bf441c9b62e55122e1ff9b2b48ec8c9649a5a7ed6b844f87bd196ec0dce4c30"
+  inputs-digest = "9ccae4685c436122031a9b956b115c2e300e78be8921f67a2a06c2575b2e6a37"
   solver-name = "gps-cdcl"
   solver-version = 1
