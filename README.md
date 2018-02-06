@@ -1,5 +1,5 @@
-# Go S3 
+# Go SDK
 
-[ http://ardeshir.org/gosdk ] ardeshir.org/gosdk 
+[ http://ardeshir.org/gosdk ]  
 
 
