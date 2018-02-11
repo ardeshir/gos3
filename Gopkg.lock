@@ -28,16 +28,20 @@
     "aws/signer/v4",
     "internal/shareddefaults",
     "private/protocol",
+    "private/protocol/json/jsonutil",
+    "private/protocol/jsonrpc",
     "private/protocol/query",
     "private/protocol/query/queryutil",
     "private/protocol/rest",
+    "private/protocol/restjson",
     "private/protocol/restxml",
     "private/protocol/xml/xmlutil",
+    "service/lexruntimeservice",
     "service/s3",
     "service/sts"
   ]
-  revision = "1b176c5c6b57adb03bb982c21930e708ebca5a77"
-  version = "v1.12.70"
+  revision = "82eadef012f77590875babb177c60878727821c0"
+  version = "v1.12.74"
 
 [[projects]]
   name = "github.com/aws/aws-sdk-go-v2"
@@ -81,6 +85,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "c45222d20af1a2294cbbcd274c2af731dd3bf36ab9a158227722a92d6ef5e155"
+  inputs-digest = "9ec7c930f37eb6423f0e68be4a241ac5dbddbe763d83905cd1aa7ea6e579278d"
   solver-name = "gps-cdcl"
   solver-version = 1
